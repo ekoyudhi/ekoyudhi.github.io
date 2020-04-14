@@ -84,3 +84,14 @@ code {
 .highlight .vg { color: #268BD2 } /* Name.Variable.Global */
 .highlight .vi { color: #268BD2 } /* Name.Variable.Instance */
 .highlight .il { color: #2AA198 } /* Literal.Number.Integer.Long */
+
+.language-python pre {
+  border-radius:0;
+  border-bottom-left-radius:3px;
+  border-bottom-right-radius:3px
+ }
+ .language-python.highlighter-rouge::before {
+  content:"Python";
+  background-color:#d8e3eb;
+  color:#5482a3
+ }

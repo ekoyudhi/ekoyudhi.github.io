@@ -93,3 +93,344 @@ code {
 .highlight .vi { color: #8be9fd; font-style: italic } /* Name.Variable.Instance */
 .highlight .vm { color: #8be9fd; font-style: italic } /* Name.Variable.Magic */
 .highlight .il { color: #bd93f9 } /* Literal.Number.Integer.Long */
+
+.language-python pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-python.highlighter-rouge::before {
+ content:"Python";
+ background-color:#d8e3eb;
+ color:#5482a3
+}
+.language-pyreq pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-pyreq.highlighter-rouge::before {
+ content:"Python Requirements";
+ background-color:#ddd;
+ color:#777
+}
+.language-html pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-html.highlighter-rouge::before {
+ content:"HTML";
+ background-color:#d7e8d9;
+ color:#599a60
+}
+.language-htmldjango pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-htmldjango.highlighter-rouge::before {
+ content:"HTML";
+ background-color:#d7e8d9;
+ color:#599a60
+}
+.language-css pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-css.highlighter-rouge::before {
+ content:"CSS";
+ background-color:#fad8d2;
+ color:#e6391a
+}
+.language-c pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-c.highlighter-rouge::before {
+ content:"C";
+ background-color:#e4d7e8;
+ color:#8b599a
+}
+.language-cpp pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-cpp.highlighter-rouge::before {
+ content:"C++";
+ background-color:#e4d7e8;
+ color:#8b599a
+}
+.language-basic pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-basic.highlighter-rouge::before {
+ content:"BASIC";
+ background-color:#e4d7e8;
+ color:#8b599a
+}
+.language-sh pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-sh.highlighter-rouge::before {
+ content:"Shell";
+ background-color:#f3e2bb;
+ color:#c09022
+}
+.language-shell pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-shell.highlighter-rouge::before {
+ content:"Shell";
+ background-color:#f3e2bb;
+ color:#c09022
+}
+.language-powershell pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-powershell.highlighter-rouge::before {
+ content:"Windows PowerShell";
+ background-color:#f3e2bb;
+ color:#c09022
+}
+.language-doscon pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-doscon.highlighter-rouge::before {
+ content:"Windows Console";
+ background-color:#f3e2bb;
+ color:#c09022
+}
+.language-diff pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-diff.highlighter-rouge::before {
+ content:"File Changes (diff)";
+ background-color:#ddd;
+ color:#777
+}
+.language-pscon pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-pscon.highlighter-rouge::before {
+ content:"PowerShell Console";
+ background-color:#f3e2bb;
+ color:#c09022
+}
+.language-javascript pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-javascript.highlighter-rouge::before {
+ content:"JavaScript";
+ background-color:#e4d7e8;
+ color:#8b599a
+}
+.language-java pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-java.highlighter-rouge::before {
+ content:"Java";
+ background-color:#e4d7e8;
+ color:#8b599a
+}
+.language-csharp pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-csharp.highlighter-rouge::before {
+ content:"C#";
+ background-color:#e4d7e8;
+ color:#8b599a
+}
+.language-ruby pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-ruby.highlighter-rouge::before {
+ content:"Ruby";
+ background-color:#e4d7e8;
+ color:#8b599a
+}
+.language-lisp pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-lisp.highlighter-rouge::before {
+ content:"Lisp";
+ background-color:#e4d7e8;
+ color:#8b599a
+}
+.language-matlab pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-matlab.highlighter-rouge::before {
+ content:"Matlab";
+ background-color:#e4d7e8;
+ color:#8b599a
+}
+.language-go pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-go.highlighter-rouge::before {
+ content:"Go";
+ background-color:#d7e8d9;
+ color:#599a60
+}
+.language-golang pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-golang.highlighter-rouge::before {
+ content:"Go";
+ background-color:#d7e8d9;
+ color:#599a60
+}
+.language-json pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-json.highlighter-rouge::before {
+ content:"JSON";
+ background-color:#e4d7e8;
+ color:#8b599a
+}
+.language-csv pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-csv.highlighter-rouge::before {
+ content:"CSV";
+ background-color:#fad8d2;
+ color:#e6391a
+}
+.language-sql pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-sql.highlighter-rouge::before {
+ content:"SQL";
+ background-color:#fad8d2;
+ color:#e6391a
+}
+.language-pascal pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-pascal.highlighter-rouge::before {
+ content:"Pascal";
+ background-color:#e4d7e8;
+ color:#8b599a
+}
+.language-psql pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-psql.highlighter-rouge::before {
+ content:"PostgreSQL Console";
+ background-color:#fad8d2;
+ color:#e6391a
+}
+.language-redis pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-redis.highlighter-rouge::before {
+ content:"Redis";
+ background-color:#fad8d2;
+ color:#e6391a
+}
+.language-text pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-text.highlighter-rouge::before {
+ content:"Text";
+ background-color:#ddd;
+ color:#777
+}
+.language-markdown pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-markdown.highlighter-rouge::before {
+ content:"Markdown Text";
+ background-color:#ddd;
+ color:#777
+}
+.language-yaml pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-yaml.highlighter-rouge::before {
+ content:"YAML";
+ background-color:#ddd;
+ color:#777
+}
+.language-dockerfile pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-dockerfile.highlighter-rouge::before {
+ content:"Dockerfile";
+ background-color:#ddd;
+ color:#777
+}
+.language-ini pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-ini.highlighter-rouge::before {
+ content:"Config File";
+ background-color:#ddd;
+ color:#777
+}
+.language-vim pre {
+ border-radius:0;
+ border-bottom-left-radius:3px;
+ border-bottom-right-radius:3px
+}
+.language-vim.highlighter-rouge::before {
+ content:"VimL Script";
+ background-color:#ddd;
+ color:#777
+}

@@ -434,6 +434,12 @@ code {
  background-color:#ddd;
  color:#777
 }
+
+.highlighter-rouge {
+ margin-bottom:1.125rem;
+ position:relative
+}
+
 .highlighter-rouge::before {
  font-size:1rem;
  color:#fff;

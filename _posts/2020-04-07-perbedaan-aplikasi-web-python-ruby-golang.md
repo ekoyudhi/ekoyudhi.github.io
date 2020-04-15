@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Perbedaab Aplikasi Web Python, Ruby dan Golang
+title: Perbedaan Aplikasi Web Python, Ruby dan Golang
 categories: Programming
 ---
 

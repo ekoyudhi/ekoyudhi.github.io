@@ -4,7 +4,7 @@ title: Menghapus Startup Program melalui Registry Editor
 categories: computer
 ---
 
-## Menghapus Startup Program melalui Registry Editor
+Ada kalanya komputer kita menjalankan program secara otomatis pada saat kali pertama menyala. Proses tersebut pada komputer dinamakan Startup Program. Startup Program dapat dinonaktifkan melalui Start Menu -> Startup Apps. Selain menggunakan cara tersebut dapat pula menggunakan cara mengubah nilai pada registry windows melalui Regedit. Regedit dapat dijalankan melalui Start Menu -> Regedit. Nilai-nilai registry windows yang perlu dihapus agar dapat menonaktifkan Startup Program adalah sebagai berikut.
 
 ### Tahap 1 Untuk menghapus hanya pada "Current User"
 

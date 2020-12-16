@@ -4,7 +4,11 @@ title: Perbedaan Aplikasi Web Python, Ruby dan Golang
 categories: Programming
 ---
 
-## Pustaka
+Teknologi web saat ini berkembang sangat cepat. Seperti yang biasa diketahui kebanyakan orang bahwa mengembangkan aplikasi web biasanya menggunakan bahasa pemrograman HTML (HyperText Markup Languange) yang dipadukan dengan CSS (Cascading Style Sheet) dan juga Javascript. Semua teknologi ini dijalankan pada sisi client dalam hal ini adalah browser. Untuk sisi server umumnya mengggunakan bahasa pemrograman PHP (PHP Hypertext Processor) dengan mesin basis data MySQL maupun PostgreSQL. Rata-rata penyedia layanan hosting web menggunakan platform ini. 
+
+Selain HTML dan PHP, terdapat beberapa aplikasi web atau istilahnya disebut Web Framework yang ditulis menggunakan beberapa bahasa pemrograman lainnya yang mungkin jarang kita dengar. Diantaranya Flask yang merupakan Web Framework untuk bahasa pemrograman Python. Sinatra untuk bahasa pemrograman Ruby dan Martini untuk bahasa pemrograman Go atau Golang. Berikut ini beberapa perbedaan dari ketiga aplikasi web / Web Framework tersebut.
+
+### Pustaka
 #### Python (Flask)
 
 > Flask adalah _framework_ mikro untuk Python berdasarkan Werkzeug, Jinja2 dan niat baik

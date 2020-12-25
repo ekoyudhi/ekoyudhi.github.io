@@ -49,6 +49,13 @@ header("Content-Disposition: attachment; filename=Template.docx");
 
 $templateProcessor->saveAs('ekoyudhi.docx');
 ```
+
+Selanjutnya jalankan kode PHP tersebut dalam command line/shell.
+```sh
+php tes.php
+```
+Maka akan terbentuk sebuah file dokumen word dengan nama ```ekoyudhi.docx```.Bisa juga menjalankannya dengan memanggil file tersebut melalui browser (apabila sudah terinstall webbrowser).
+
 Penjelasan kode di atas adalah pertama melakukan load semua library yang akan dibutuhkan dalam hal ini phpword, dll. Selanjutnya PHP akan melakukan impor template yang telah dibuat. Setelah berhasil impor template, PHP akan mencari beberap variabel yang cocok pada template seperti ```nama```, ```nip```, dan ```alamat``` serta akan mengisinya dengan value yang telah ditulis. Selanjutnya akan menyimpan dalam sebuah file dokumen word yang lain. Jika berhasil akan ada sebuah file dokumen word yang isinya seperti di bawah ini ![hasil](https://i.ibb.co/k66pcSn/2020-12-25-085909.png).
 
 Demikianlah penjelasan singkatnya, semoga temanku sudah dapat implement phpword ini di dalam aplikasinya.

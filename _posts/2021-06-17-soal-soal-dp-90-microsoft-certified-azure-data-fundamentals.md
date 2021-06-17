@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Soal-soal DP-900 Microsoft Certified : Azure Data Fundamentals
+title: Soal-soal DP-900 Microsoft Certified Azure Data Fundamentals
 categories: computer
 ---
 

@@ -95,4 +95,3 @@ Standar Biaya Masukan Tahun Anggaran Yang Berfungsi Sebagai Estimasi
 18. Satuan Biaya Tiket Pesawat Perjalanan Dinas Dalam Negeri Pergi Pulang (PP)
 19. Satuan Biaya Tiket Pesawat Perjalanan Dinas Luar Negeri Pergi Pulang (PP)
 20. Satuan Biaya Penyelenggaraan Perwakilan Republik Indonesia di Luar Negeri
-21. 

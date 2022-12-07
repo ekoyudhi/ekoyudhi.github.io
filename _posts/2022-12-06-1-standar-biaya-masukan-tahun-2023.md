@@ -45,7 +45,7 @@ Standar Biaya Masukan Tahun Anggaran Yang Berfungsi Sebagai Batas Tertinggi
 12. Honorarium Pemberi Keterangan Ahli/Saksi Ahli dan Beracara
 13. Honorarium Penyelenggaraan Kegiatan Pendidikan pada Lingkup Pendidikan Tinggi
 14. Honorarium Penyuluh Nonpegawai Negeri Sipil
-15. Stuan Biaya Operasional Penyuluh
+15. Satuan Biaya Operasional Penyuluh
 16. Honorarium Rohaniwan
 17. Honorarium Tim Pelaksana Kegiatan dan Sekretariat Tim Pelaksana Kegiatan
 18. Honorarium Tim Penyusunan Jurnal/Buletin/Majalah/Pengelola Website

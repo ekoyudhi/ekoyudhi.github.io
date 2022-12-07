@@ -15,10 +15,12 @@ Terhadap tim pelaksana kegiatan yang dibentuk berdasarkan keputusan Gubernur dal
 - 17.2 Honorarium Sekretariat Tim Pelaksana Kegiatan. Honorarium yang diberikan kepada seseorang yang diberi tugas melaksanakan kegiatan administratif untuk menunjang kegiatan tim pelaksana kegiatan. Sekretariat tim pelaksana kegiatan merupakan bagian tidak terpisahkan dari tim pelaksana kegiatan. Sekretariat tim pelaksana kegiatan hanya dapat dibentuk untuk menunjang tim pelaksana kegiatan yang ditetapkan oleh Presiden / Menteri. Jumlah sekretariat tim pelaksana kegiatan diatur sebagai berikut:
    - a. paling banyak 10 (sepuluh) orang untuk tim pelaksana kegiatan yang ditetapkan oleh Presiden; atau
    - b. paling banyak 7 (tujuh) orang untuk tim pelaksana kegiatan yang ditetapkan oleh Menteri/Pejabat Setingkat Menteri.
+
 > Catatan:
 > 1. Dalam hal tim pelaksana kegiatan telah terbentuk selama 3 (tiga) tahun berturut-turut, kementerian negara/lembaga melakukan evaluasi terhadap urgensi dan efektivitas keberadaan tim dimaksud untuk dipertimbangkan menjadi tugas dan fungsi suatu unit organisasi.
 > 2. Kementerian negara/lembaga dalam hal melaksanakan ketentuan Standar Biaya Masukan agar melakukan langkah-langkah efisiensi anggaran dengan melakukan pembatasan dan pengendalian pemberian honorarium tim pelaksana kegiatan, dengan ketentuan sebagai berikut:
 >   - a. Pengaturan batasan jumlah tim pelaksana kegiatan dan sekretariat tim pelaksana kegiatan yang dapat diterima honorariumnya baik yang berasal dari DIPA Kementerian/Lembaga yang bersangkutan maupun dari DIPA Kementerian/Lembaga lainnya dalam 1 (satu) tahun adalah sebagai berikut:
+
 | Jabatan                              | Klasifikasi I | Klasifikasi II | Klasifikasi III |
 |--------------------------------------|---------------|----------------|-----------------|
 |Pejabat Negara, Pejabat Eselon I, Pejabat Eselon II, Pejabat Eselon III, Pejabat Eselon IV, pelaksana, dan pejabat fungsional.|1|2|4|

@@ -1,6 +1,6 @@
 ---
 layout : post
-title : SBM 2023 Honorarium Pemberi Keterangan Ahli/Saksi Ahli dan Beracara
+title : SBM 2023 Honorarium Narasumber/Moderator/Pembawa Acara/Panitia
 categories: keuangan
 ---
 

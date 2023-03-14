@@ -25,9 +25,9 @@ Satuan biaya paket kegiatan rapat/pertemuan di luar kantor menurut lama penyelen
 
 > Catatan : Kepada panitia (karena faktor transportasi dan/atau guna mempersiapkan pelaksanaan kegiatan dan penyelesaian pertanggungjawaban) dan kepada peserta (karena faktor transportasi) yang memerlukan waktu tambahan untuk berangkat/pulang di luar waktu pelaksanaan kegiatan, dapat
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
-![h1](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0024.jpg?alt=media&token=c2b94294-8696-4f6a-bb11-e9a97652150b)
-![h2](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0025.jpg?alt=media&token=1e82a6b7-0d86-4c33-9193-723cbf5bde4d)
-![h3](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0026.jpg?alt=media&token=e082c333-f26c-493b-b860-149b7a5c320a)
-![h4](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0027.jpg?alt=media&token=7e20d86d-0a1b-4167-a298-5b6ce0c25bcd)
+![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0024.jpg)
+![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0025.jpg)
+![h3](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0026.jpg)
+![h4](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0027.jpg)

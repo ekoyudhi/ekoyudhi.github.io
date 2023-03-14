@@ -25,6 +25,6 @@ yang bekerja di instansi pemerintah dan diberikan paling banyak 2 (dua) setel pe
 - f. Satuan Biaya Pakaian Kerja Satpam. Satuan biaya pakaian kerja satpam diperuntukkan bagi satpam, sudah termasuk perlengkapannya (sepatμ, baju PDL, kopel, ikat pinggang, tali kurt dan peluit, kaos kaki, topi, kaos security, dan atribut lainnya) dan dapat diberikan paling banyak 2 (dua) setel per tahun yang penyediaannya dilaksanakan secara selektif.
 
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
-![h1](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0041.jpg?alt=media&token=47e3bcbd-7fe1-4181-b92e-88aeeb5c591b)
+![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0041.jpg)

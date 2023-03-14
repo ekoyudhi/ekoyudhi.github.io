@@ -21,8 +21,8 @@ Honorarium diberikan kepada Kuasa Pengguna Anggaran (KPA), Pejabat Pembuat Komit
 
 > Catatan: Honorarium Penanggung Jawab Pengelola Keuangan dapat diberikan kepada pengelola kegiatan yang secara langsung mengelola dan melaksanakan kegiatan yang anggarannya bersumber dari Bagian Anggaran Bendahara Umum Negara (BA BUN) dengan ketentuan alokasi honorarium dimaksud berasal dari pagu Rencana Kerja dan Anggaran Kementerian Negara/Lembaga (RKA-K/L) berkenaan.
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
-![h1](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0005.jpg?alt=media&token=62543a38-9d76-440d-915e-a65496df5d75)
-![h2](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0006.jpg?alt=media&token=4d20bd8f-8a23-4318-98ed-e275057bf17c)
+![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0005.jpg)
+![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0006.jpg)
 

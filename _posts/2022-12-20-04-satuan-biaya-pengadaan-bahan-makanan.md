@@ -4,8 +4,6 @@ title : SBM 2023 Satuan Biaya Pengadaan Bahan Makanan
 categories: keuangan
 ---
 
-Standar Biaya Masukan Tahun Anggaran 2023 yang Befungsi Sebagai Estimasi
-
 Satuan biaya pengadaan bahan makanan merupakan satuan biaya yang digunakan untuk kebutuhan biaya pengadaan bahan makanan dan diberikan untuk:
 - 9.1 Pengadaan Bahan Makanan untuk Narapidana/Tahanan dan Anak di Lapas/Rutan Kementerian Hukum dan Hak Asasi Manusia Satuan biaya pengadaan bahan makanan diberikan kepada Narapidana/Tahanan dan Anak. Ketentuan lebih lanjut terkait dengan pengadaan bahan makanan narapidana/tahanan dan anak mengacu pada Peraturan Menteri Hukum dan Hak Asasi Manusia.
 
@@ -47,12 +45,12 @@ Satuan biaya pengadaan bahan makanan merupakan satuan biaya yang digunakan untuk
    > Catatan : Khusus untuk Kegiatan Operasi Pencarian dan Pertolongan pada saat melaksanakan tugas operasi pencarian dan pertolongan pada kecelakaan penerbangan, kecelakaan pelayaran, bencana, dan kondisi membahayakan manusia, apabila diperlukan dapat menggunakan mekanisme pengadaan makanan siap saji dengan biaya sebesar 150% (seratus lima puluh persen) dari besaran pengadaan bahan makanan untuk rescue team.
 
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
-![h1](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0087.jpg?alt=media&token=ea00d19d-05ce-4425-bfd0-7f7cd1b3fb16)
-![h2](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0088.jpg?alt=media&token=9bd81ee1-752e-462c-8de1-da78cc8fdaa1)
-![h3](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0089.jpg?alt=media&token=2eba19b2-31d5-45ad-ba29-8294f9b17b42)
-![h4](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0090.jpg?alt=media&token=403961c1-5003-45e0-8ffc-04e6dbb24a35)
-![h5](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0091.jpg?alt=media&token=218ceca2-8078-4fe8-8bec-20163038b1d7)
-![h6](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0092.jpg?alt=media&token=35c37733-544a-4c48-9462-dda32beb44ba)
-![h7](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0093.jpg?alt=media&token=a731f5a1-9b3b-42c6-aae9-582946a3f640)
+![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0087.jpg)
+![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0088.jpg)
+![h3](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0089.jpg)
+![h4](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0090.jpg)
+![h5](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0091.jpg)
+![h6](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0092.jpg)
+![h7](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0093.jpg)

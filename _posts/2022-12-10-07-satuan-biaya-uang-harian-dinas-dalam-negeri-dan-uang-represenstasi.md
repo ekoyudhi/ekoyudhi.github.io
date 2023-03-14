@@ -11,6 +11,6 @@ Uang representasi hanya diberikan kepada pejabat negara (ketua/wakil ketua dan a
 Uang harian diklat diberikan kepada Pegawai Aparatur Sipil Negara/Anggota Polri/TNI/Pihak Lain yang diberikan tugas untuk mengikuti kegiatan pendidikan dan pelatihan yang diselenggarakan di dalam kota yang melebihi 8 (delapan) jam atau diselenggarakan di luar kota.
 
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
-![h1](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0020.jpg?alt=media&token=c067fc52-c5fb-4a4a-aa9a-b51feee4de4a)
+![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0020.jpg)

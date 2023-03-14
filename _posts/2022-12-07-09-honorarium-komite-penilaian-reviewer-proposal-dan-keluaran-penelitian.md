@@ -10,6 +10,6 @@ Honorarium diberikan kepada Komite Penilaian dan/ atau Reviewer Proposal dan Kom
 > 1. Ketentuan lebih lanjut terkait dengan Komite Penilaian dan/ atau Reviewer Proposal dan Komite Penilaian dan/ atau Reviewer Keluaran Penelitian berpedoman pada peraturan perundang-undangan yang ditetapkan oleh Menteri/Pimpinan Lembaga Negara yang menyelenggarakan urusan pemerintahan di bidang riset/penelitian.
 > 2. Pemberian Honorarium Komite Penilaian dan/ atau Reviewer Proposal sebagaimana dimaksud pada poin 10.1, hanya dapat diberikan paling banyak Rpl.500.000,00 (satu juta lima ratus ribu rupiah) per orang per bulan.
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
-![h1](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0009.jpg?alt=media&token=d6cff518-f475-47ba-8f12-49e307b5594c)
+![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0009.jpg)

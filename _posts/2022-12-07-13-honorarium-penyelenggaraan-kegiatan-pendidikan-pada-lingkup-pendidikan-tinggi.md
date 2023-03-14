@@ -21,11 +21,11 @@ Honorarium yang diberikan untuk pelaksanaan tugas tambahan/tugas khusus tertentu
 - n. Honorarium Penyelenggaraan Kegiatan Pendidikan pada Lingkup Pendidikan Tinggi dapat diberikan un tuk kegiatan yang dilaksanakan secara langsung (ofjline) maupun daring (online) melalui aplikasi secara live dan bukan rekaman/hasil tapping.
 - o. Penerapan satuan biaya Kegiatan Pendidikan pada Perguruan Tinggi harus tetap mempertimbangkan prinsip-prinsip pengelolaan keuangan negara, yaitu tertib, taat pada peraturan perundangundangan, efisien, ekonomis, efektif, transparan, dan bertanggung jawab dengan memperhatikan rasa keadilan dan kepatutan.
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
-![h1](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0010.jpg?alt=media&token=893cd31a-6eea-481b-bbfd-d50c3d6e30b8)
-![h2](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0011.jpg?alt=media&token=8960f6f1-d054-4c1b-a6b5-347cba885dfc)
-![h3](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0012.jpg?alt=media&token=4d5b0c14-31f8-49ca-a704-fed848c1b6b6)
-![h4](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0013.jpg?alt=media&token=e2a59d84-8b8c-4bb5-969b-981f0e2b168e)
-![h5](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0014.jpg?alt=media&token=e3c96d32-1c8d-4356-ba68-271fe5be39e7)
-![h6](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0015.jpg?alt=media&token=297619a7-45e8-4865-8d83-66d19c5893cd)
+![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0010.jpg)
+![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0011.jpg)
+![h3](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0012.jpg)
+![h4](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0013.jpg)
+![h5](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0014.jpg)
+![h6](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0015.jpg)

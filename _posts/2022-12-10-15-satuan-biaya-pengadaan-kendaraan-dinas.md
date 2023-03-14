@@ -13,8 +13,8 @@ Dalam hal kebutuhan kendaraan operasional telah dipenuhi melalui mekanisme sewa 
 > Catatan : Satuan biaya pengadaan kendaraan dinas sebagaimana tercantum dalam Peraturan Menteri ini tidak diperuntukkan untuk pengadaan kendaraan bermotor listrik berbasis baterai. Pengadaan kendaraan bermotor listrik berbasis baterai dapat mengacu pada harga pasar sesuai dengan ketentuan peraturan perundang-undangan.
 
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
-![h1](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0038.jpg?alt=media&token=be13a659-7a98-4706-859e-8e9e61b03cc3)
-![h2](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0039.jpg?alt=media&token=8c9e895b-aa7a-476d-8e2e-0469801388b7)
-![h3](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0040.jpg?alt=media&token=fd658433-4f7e-41bf-8535-31e0918bca2e)
+![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0038.jpg)
+![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0039.jpg)
+![h3](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0040.jpg)

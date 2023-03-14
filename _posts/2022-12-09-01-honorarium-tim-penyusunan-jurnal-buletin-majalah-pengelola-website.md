@@ -8,6 +8,6 @@ categories: keuangan
 - 18.2 Honorarium Tim Penyusunan Buletin/Majalah. Honorarium tim penyusunan buletin/majalah dapat diberikan kepada Pegawai Aparatur Sipil Negara/Anggota Polri/TNI yang diberi tugas tambahan untuk menyusun dan menerbitkan buletin/majalah, berdasarkan surat keputusan pejabat yang berwenang. Majalah adalah terbitan berkala yang isinya berbagai liputan jurnalistik, pandangan tentang topik aktual yang patut diketahui pembaca. Buletin adalah media cetak berupa selebaran atau majalah berisi warta singkat atau pernyataan tertulis yang diterbitkan secara periodik yang ditujukan untuk lembaga atau kelompok profesi tertentu.
 - 18.3 Honorarium Tim Pengelola Website. Honorarium tim pengelola website dapat diberikan kepada Pegawai Aparatur Sipil Negara/Anggota Polri/TNI yang diberi tugas tambahan untuk mengelola website, berdasarkan surat keputusan pejabat yang berwenang. Website yang dimaksud disini adalah website yang berisi profile dan informasi satuan kerja yang dikelola oleh kementerian negara/lembaga, unit eselon I/setara atau unit vertikal setingkat eselon II di daerah.
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
-![h1](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0016.jpg?alt=media&token=159dab33-659d-479f-b19c-393d32f893bf)
+![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0016.jpg)

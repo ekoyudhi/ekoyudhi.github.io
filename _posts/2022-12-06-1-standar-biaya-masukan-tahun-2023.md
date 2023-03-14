@@ -4,7 +4,7 @@ title: SBM 2023 Peraturan Menteri Keuangan Nomor 83/PMK.02/2022 Tentang Standar 
 categories: keuangan
 ---
 
-[Peraturan Menteri Keuangan Nomor 83/PMK.02/2022 Tentang Standar Biaya Masukan Tahun Anggaran 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Peraturan Menteri Keuangan Nomor 83/PMK.02/2022 Tentang Standar Biaya Masukan Tahun Anggaran 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
 #### Apa itu Standar Biaya Masukan Tahun Anggaran 2023?
 
@@ -24,7 +24,7 @@ Ketentuan Pasal 5 ayat (5) Peraturan Pemerintah Nomor 90 Tahun 2010 tentang Peny
 
 Standar Biaya Masukan Tahun Anggaran Tahun 2023 mulai berlaku sejak tanggal diundangkan yaitu tanggal 20 Mei 2022.
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
 
 ### Lampiran I

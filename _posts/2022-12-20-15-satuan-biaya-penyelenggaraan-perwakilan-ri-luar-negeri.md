@@ -4,8 +4,6 @@ title : SBM 2023 Satuan Biaya Penyelenggaraan Perwakilan Republik Indonesia di L
 categories: keuangan
 ---
 
-Standar Biaya Masukan Tahun Anggaran 2023 yang Befungsi Sebagai Estimasi
-
 Satuan biaya penyelenggaraan perwakilan Republik Indonesia di luar negeri merupakan satuan biayayang digunakan untuk kebutuhan biaya penyelenggaraan operasional perwakilan Republik Indonesia di luar negeri, berupa:
 - 20.1 ATK, Langganan Koran/Majalah, Lampu, Pengamanan Sendiri, Ka11:tong Diplomatik, dan Jamuan
    - a. ATK merupakan satuan biaya yang digunakan untuk membiayai pengadaan kebutuhan alat tulis (misal: kertas, ballpoint, dan amplop) yang alokasinya dikaitkan dengan jumlah pegawai.
@@ -29,11 +27,11 @@ Satuan biaya penyelenggaraan perwakilan Republik Indonesia di luar negeri merupa
    - g. Konsumsi rapat merupakan satuan biaya yang digunakan untuk membiayai kebutuhan biaya pengadaan konsumsi rapat biasa yang diselenggarakan di kantor, dimana di dalamnya sudah termasuk makan dan kudapan.
 
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
-![h1](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0113.jpg?alt=media&token=84b3bb01-f876-474c-a0c8-fe6c81efc62c)
-![h2](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0114.jpg?alt=media&token=cc094acb-c12b-4f93-916d-50ee3f60963a)
-![h3](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0115.jpg?alt=media&token=44becb77-6822-4022-b65b-eea6c8a4ec89)
-![h4](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0116.jpg?alt=media&token=4ba320a8-05ce-4076-8512-ee2c323e0369)
-![h5](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0117.jpg?alt=media&token=46c8010c-1a0a-45b6-9637-55eb628a62d2)
-![h6](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0118.jpg?alt=media&token=ae4d6cf7-54f6-4598-be1e-0799a22b7fc7)
+![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0113.jpg)
+![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0114.jpg)
+![h3](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0115.jpg)
+![h4](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0116.jpg)
+![h5](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0117.jpg)
+![h6](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0118.jpg)

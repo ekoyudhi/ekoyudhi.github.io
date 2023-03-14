@@ -22,8 +22,8 @@ categories: keuangan
 > 3. Mekanisme sewa kendaraan operasional pejabat/operasional kantor dan/ atau lapangan mengikuti ketentuan peraturan perundang- undangan mengenai pengadaan barang/jasa.
 
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
-![h1](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0035.jpg?alt=media&token=7d614495-5210-4966-8dcd-6b52d579fbab)
-![h2](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0036.jpg?alt=media&token=9c51e59f-7e60-4796-853a-c630df7f95b3)
-![h3](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0037.jpg?alt=media&token=8e3efc44-1320-49df-8a21-ae5b64d0fca8)
+![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0035.jpg)
+![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0036.jpg)
+![h3](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0037.jpg)

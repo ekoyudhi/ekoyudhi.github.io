@@ -18,6 +18,6 @@ Pemberian Bantuan Biaya Pendidikan Anak (BBPA) pada Perwakilan Republik Indonesi
 - g. Penggunaan Satuan Biaya BBPA mengikuti ketentuan yang ditetapkan oleh Menteri Luar Negeri.
 - h. Pemberian BBPA dilakukan dengan menerapkan pnns1p efisien, efektif, transparan, dan bertanggung jawab
 
-[Download SBM 2023](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023.pdf?alt=media&token=228220bb-e660-47cd-bb6f-ef614ad11018){:target="_blank"}
+[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
 
-![h1](https://firebasestorage.googleapis.com/v0/b/geotag-b7d33.appspot.com/o/SBM_2023_page-0018.jpg?alt=media&token=69f02c36-89a6-412e-ae91-5d4ec59c959d)
+![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0018.jpg)

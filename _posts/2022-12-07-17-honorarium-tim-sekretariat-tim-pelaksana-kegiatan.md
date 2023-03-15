@@ -32,6 +32,6 @@ Terhadap tim pelaksana kegiatan yang dibentuk berdasarkan keputusan Gubernur dal
 > Klasifikasi III : Kementerian negara/lembaga yang telah menerima tunjangan kinerja sesuai dengan peraturan perundangundangan mengenai tunjangan kinerja dengan tunjangan kinerja pada kelas jabatan tertinggi kurang dari Rp25.000.000,00 (dua puluh limajuta rupiah) atau belum menerima tunjangan kinerja.
 >   - b. Untuk tim yang keanggotaannya berasal dari lintas eselon I dalam 1 (satu) kementerian negara/lembaga, jumlah orang dalam tim tersebut dibatasi maksimal sebanyak 25 (dua puluh lima) orang, sedangkan untuk tim yang keanggotaannya berasal dari lintas kementerian negara/lembaga dapat lebih dari 25 (dua puluh lima) orang dengan tetap mempertimbangkan prinsip-prinsip pengelolaan keuangan negara yaitu akuntabilitas, efektif, efisien dengan memperhatikan rasa keadilan dan kepatutan.
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0016.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWc88leWvp_LY30MSGqtCrG0DFAa2l1YoTuZ5-qv5e7UZFmD1NhDyPQR4PBxjqaYzB397qpzrj1byx5H6cK5nhuHFNbaeyyPL22gztdRXQCFSsE3PXZlL_FYgjWNn3oAFQpmOhZ1cJgmMxl5Iyk3BwLhllhEwUjcKBCO41z6TcjNI/s1600/SBM_2023_page-0016.jpg)

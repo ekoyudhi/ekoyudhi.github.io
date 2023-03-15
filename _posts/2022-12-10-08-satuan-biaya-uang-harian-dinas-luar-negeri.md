@@ -18,7 +18,7 @@ Contoh: Uang harian bagi pejabat/pegawai yang melaksanakan perjalanan dinas ke n
 >    - b. dalam hal uang harian untuk golongan sebagaimana dimaksud pada huruf a tidak mencukupi, golongan uang hariannya dapat dinaikkan melebihi 1 (satu) tingkat di atasnya.
 
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0021.jpg)
-![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0022.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyaF6KQgEljlGrcmcNOJHQjBzHyYroByTcuu6dDymZM-Uwp6eQMqLeOxKpIlSQdZSjF3qzH88YbFFn5C_Iyae1SiiwnmxsOpyGGu32JTH4phj0PH9YfKgcfPWquLEceRzmZ0wfKpS7Z6ORw8UkvFlSdO1O944gw1J0BxnoKejV-K8/s1600/SBM_2023_page-0021.jpg)
+![h2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4D3Pey0NOjj5v2DKWk5te2RMES0MBDNvyJjMzajC_tzmMO18XjbY0JogVw5wcs6F5vskuIogvZAQeMTFYdyH2wK6W5byKpNPoIrAVsac1Nywk7yiwcqSzv9cqbnhCFvwMNWSVE4L7aB9YEXGmoPZwwx6Borcvff3ffFIgnVPpNZQ/s1600/SBM_2023_page-0022.jpgg)

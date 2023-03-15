@@ -25,9 +25,9 @@ Satuan biaya paket kegiatan rapat/pertemuan di luar kantor menurut lama penyelen
 
 > Catatan : Kepada panitia (karena faktor transportasi dan/atau guna mempersiapkan pelaksanaan kegiatan dan penyelesaian pertanggungjawaban) dan kepada peserta (karena faktor transportasi) yang memerlukan waktu tambahan untuk berangkat/pulang di luar waktu pelaksanaan kegiatan, dapat
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0024.jpg)
-![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0025.jpg)
-![h3](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0026.jpg)
-![h4](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0027.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn94Q_63DO8LrAXQxcn3Tsnt8LL76cE4ddB8d-Py1hJ6oTkCacAHheaBMGxWVipkEhBi6N0PZx1EzL2uOc6gJmQsG0WVEtTLtnCaSSBr13DdlQxIV7AfsZVPKy-tlc7kjMsx01PL0Osbt5zRJ17y2J_lnkfgV0CYkjsQlVs802jKI/s1600/SBM_2023_page-0024.jpg)
+![h2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieSMvIViCUGfdnoeNCgVTxX2InIn73UkPWc6IhC3x-MAYTbGESnPsdJGDqXWMQRS9El-3V68QMwFLZZByRHlyx3TFYJ43JZcJo5U6VLIst1IjcWDDCMwhZdwl1pHj3IAA5IBdTENXNKkk8I_sg1Ifr-1JBmzfSLmhy2GKN2ag9S7Q/s1600/SBM_2023_page-0025.jpg)
+![h3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhULnkxfeVn9rA9DZXMPdxH1XL1xdPO0YuS2Iz-MUZc3-M8cmESuhKs5VUNKK46VvgaVjP8ly4y2-ocmCkXqN0NCV7QIYLNbyvZoJOUfOr2KXHklMA47bkMhUdnOjl4yID1cKiqdba7Dg0Yk8Sdfzgevc5KBNStfoCxeQbhYYJ7YLE/s1600/SBM_2023_page-0026.jpg)
+![h4](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtzWEAEdgrL2tU4l0etUEE3gpnCjse-8-u-FrVOFvAmuLEX-xBgBWifq-I2FWMVhoBA185rRXWxlDMAQWOXpdIYwxcSU_1_6Owhwngj4N7j4LZbffNDraqFkKMe_046p8hQphmnFuCDI46mYCyA38BmigMZ6K66iy9N66AMSoDVB8/s1600/SBM_2023_page-0027.jpg)

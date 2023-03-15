@@ -22,6 +22,6 @@ categories: keuangan
 > 2. Honorarium Panitia Penyelenggara Kegiatan Diklat hanya dapat diberikan untuk kegiatan yang dilaksanakan secara langsung (ofjline).
 
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0017.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqJ0uJo04qhfL3S3qmUBTk_B7Ns2TdYl23tbg5kSI6JTs83vjIgfAy8Zjy8USoqKQhvg-EA3Picf3wNbGgvguKnXBbniTLPNQ4ZcOXAOYPz-HC-FakEAEuPLFiFdHRL9dgYl_aYobfHtIYOb8oBEuKdEA-6KG_LPEzYAbCxCVxv3o/s1600/SBM_2023_page-0017.jpg)

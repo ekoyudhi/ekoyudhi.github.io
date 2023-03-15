@@ -11,6 +11,6 @@ Satuan biaya pemeliharaan gedung/bangunan dalam negeri dialokasikan untuk:
 - b. gedung/bangunan milik pihak lain yang disewa dan/atau dipinjam oleh pengguna barang dan dalam perjanjian diatur tentang adanya kewajiban bagi pengguna barang untuk melakukan pemeliharaan.
 
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0101.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7m03f8TMfrV9paRpBvEol3qdXP4SUzLQzsrNqmAhNtGpzqOs09fkosRIovlNISg0z44VZgLIxXvVJRJXVBmaNEwjbGUmq7B-haK2y3qkBDgqRIOOCj3yc_JlAOz1Sm-wMajulqMZFPrY16TlK-yJJ7J2iT7upht76y4EE0MEljfE/s1600/SBM_2023_page-0101.jpg)

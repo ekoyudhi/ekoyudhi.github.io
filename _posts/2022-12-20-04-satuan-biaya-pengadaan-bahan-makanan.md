@@ -45,12 +45,12 @@ Satuan biaya pengadaan bahan makanan merupakan satuan biaya yang digunakan untuk
    > Catatan : Khusus untuk Kegiatan Operasi Pencarian dan Pertolongan pada saat melaksanakan tugas operasi pencarian dan pertolongan pada kecelakaan penerbangan, kecelakaan pelayaran, bencana, dan kondisi membahayakan manusia, apabila diperlukan dapat menggunakan mekanisme pengadaan makanan siap saji dengan biaya sebesar 150% (seratus lima puluh persen) dari besaran pengadaan bahan makanan untuk rescue team.
 
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0087.jpg)
-![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0088.jpg)
-![h3](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0089.jpg)
-![h4](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0090.jpg)
-![h5](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0091.jpg)
-![h6](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0092.jpg)
-![h7](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0093.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyxEhk9Mz9nEzNoZaTlWIGYvQBWMxcEIXa1QxrrRtUTSNOT-AFR49QYB3fWhXdZ-AINeOHI1KZkDjhtVBb_O9qFLfywrx9Ctxpchd_2aH5Ot1OY4NvP1GLTzuqbuyw26gn4LbBNbAT4KkOylV6ii7v2LnD1jVwZp3rSjvVgoeu1N8/s1600/SBM_2023_page-0087.jpg)
+![h2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJEphSVbGG3oNArUOMhOdKxoKxdQTclAQE1K20xtU01aFMQrXkf9CaoBtS3tHW9ox9_kUVt3TIGOjnlokfHr21pYw4RR9OIGBqIK-KAjd68rEtYrqADQdL3sYemFZd5Ua5xFBUAQQZewAMUN79L1e31vnq_FGJq96OhQSTQkePBbI/s1600/SBM_2023_page-0088.jpg)
+![h3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj5zvjpjQIK95cwEZXmO2uJQOxHj1fbjZUV13FR-wDR15HQfa9DN8jsbOv6w8Wulu63LpGZgNot5zhUQ-grEYDMf27-z-5AwDd8X45okKaFtEerstmRtqgQL4OLvb574cDgsLaPPxj5i6sq6Juj9doZgDGPLVExakh41tvz73L4xE/s1600/SBM_2023_page-0089.jpg)
+![h4](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Ig1SnO1Bt_hgwTuYVD3hG4gChdxb-YI-b-T2lyyGCYvHjSeg-Y65FgrsuQOAPhdaLlyiX6nEqqerVHqX23-rRrhdM1N8RK9AUAusEdfq8W7p6ap1WX030rtoAXMDcmtJORxv4EZcc31Q2mSND-vHzTrWw1zzDBc-8d-pptuZO-Y/s1600/SBM_2023_page-0090.jpg)
+![h5](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjV-9xmINQFeQwfSGbV6dMwgRMpDYH-UFcWChBZEKe4_3EJyspQoork9tkmVyn4prUzpHp-CXeYdLjV32L7OESzv9OBNGIQEsQ-VL7YbqfPTc5Ws5AJnXCaMMIEuavlGXZ9XevSIPLMit4fazLylDYCozoUkXbMowYFcwupw26aqhs/s1600/SBM_2023_page-0091.jpg)
+![h6](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJXrn2d9krl0iqCJ7n73aDdM7RXON7O4RYCVd8MnWBKiujFS9pntNVHiJx-mGE9OqgcWlfMI6Th12RFhsgc744JSq_1JwSbPRYg8SW9-22ys6ZU8zEvtITng3kBvggEKNDef1Dn5lx4lDxeGe1EfxGBlZrHV8unrA-1VsGvEdKK8o/s1600/SBM_2023_page-0092.jpg)
+![h7](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU-PsSI9GvRmvOwneAArqfutEBLABxiJRDd2-6zuLwMRD8O-o-cqs0NzXVSUGpQ-8Kldyfa3t7BStvjVZjfEu2dg72xNUiGv-XhI3hY1RGgJB2oBE7xj5zXkKSP6SXCPUQAckQb6z-8RaSdWFgdDpxk7A3KdRqFPhMasT7RvXvWfs/s1600/SBM_2023_page-0093.jpg)

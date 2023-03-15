@@ -27,11 +27,11 @@ Satuan biaya penyelenggaraan perwakilan Republik Indonesia di luar negeri merupa
    - g. Konsumsi rapat merupakan satuan biaya yang digunakan untuk membiayai kebutuhan biaya pengadaan konsumsi rapat biasa yang diselenggarakan di kantor, dimana di dalamnya sudah termasuk makan dan kudapan.
 
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0113.jpg)
-![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0114.jpg)
-![h3](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0115.jpg)
-![h4](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0116.jpg)
-![h5](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0117.jpg)
-![h6](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0118.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijkCX2V37lTuQREXnSPA6TvGe0hBj3QqO188ExEXpV9ZHjZZfMYjqJ7Cq3VdwtsY1DduJPzLNCFe4DFLZN9LWCiQiJcBZHhsFtRFdsDLWDfdi9nW04VADOWOynZaZVhPS1OagE4ILt_bzu2ff7ngGNWC1lNdg1MHzTSBHRJrA7mV8/s1600/SBM_2023_page-0113.jpg)
+![h2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMRwbo6rLu6rbvaLkFQZIaCtbtqyTOGKw2GJE3ErTbtxfwOD5SeuIsthpA3zC3ViXwiGdGk5jbJt8zKn8BktoCXk7mf8z6eYyBK47jHpsoEWO6RPLM81GyjmaUWodeLaukTa0_yVBDvFHdy7EWl3GSz8dwosES9FBfRAxH-A2UOcM/s1600/SBM_2023_page-0114.jpg)
+![h3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK9cqSMApzRUbHVf6kzUCLDXl65abGoG1SEwGlyjqyApV-h_-MN2mi6DPlwE_cWzY1jvb9biNUMtlIKGuTU0Cqfq34Cp0pG7z4Rnyi5mFMhjjMN8ngU3vP1eD369YTn6B1wtW4gb29qJ9xy-WMJ9wSZ3ValMorbnPAdd6ZTihwE1U/s1600/SBM_2023_page-0115.jpg)
+![h4](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgePLgo34mmmtdvSjWR4dR3GdjTD5Qea-roDj5bOWv5xFwnCsxXBxdKUyHE_Hjt614areJkNRlervTAmMJVMm-r1Y-2Z4CZBuDs1-rvRkdKpzXw0nfAAtyiqPUVnHoct0jg0MxbI96s4Gkdsva13qCvBvqcXngD2jy2KXpSCsPx-3A/s1600/SBM_2023_page-0116.jpg)
+![h5](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9P2_HLDQNoyT0TgiFpOWzNIp6HqO6I9Ec0lQbEjlQbreGcS59ohhQvc0aNJ5At9gd5IRc-FU8pvg6Mi2ek6lJfkXXNoZOGjnt7daIk069_POZDFxG9CV46YTW0lPy5tXEO6r0sT3HFD6-QuUhQMxpuKyRGqWxny5rJylawCp9XmQ/s1600/SBM_2023_page-0117.jpg)
+![h6](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe5rg82cNwyJ3KhBwha8QhgzcnSnqLiXl6llw0tDAkxT1qAbNjmgyKqDvW4IP-QdXdqXNA4rzieXy2NP0OOisetx3s3GNMJUlf6nDaOfHg3riYeYLCtIpeaI0z4BX7ZH-XiizMdDJ_R6-JjorERUt3uLZm_k0Ou5bvEJcejoesEa4/s1600/SBM_2023_page-0118.jpg)

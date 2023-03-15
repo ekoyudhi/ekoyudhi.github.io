@@ -12,7 +12,7 @@ Honorarium diberikan kepada Pegawai Aparatur Sipil Negara/ Anggota Polri/TNI yan
 > 1. Kementerian negara/lembaga tidak diperkenankan memberlakukan satuan biaya Honorarium Tim Pelaksana Kegiatan dalam pengelolaan SAI
 > 2. Dalam hal Pengelola SAI telah diberikan tunjangan jabatan fungsional di bidang perbendaharaan, maka diberikan honorarium sebesar 40% (empat puluh persen) dari besaran Honorarium Pengelola SAI.
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0008.jpg)
-![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0009.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAy_fD98wZ9HejZ8CnO9dVCtdGJlv7vGn_1MaVCsJ9M3jSPQ094HxpHdkNGs7iZ6KWavi6MGmujcRxvxYx7PvJLFvR1t3ldRjonVzgllyRbwZiF7YIvLL6MmaTiIs01u_MGE_8ZIkzvnNnlkbG1xwQHRVjnhhW4vYasO1JWkaCrhY/s1600/SBM_2023_page-0008.jpg)
+![h2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrlqIUmFg3DO-wBRzDytNVD0Oc1t9qp02zNvskKkdE06tEdsSEgLxRHXHEBIFCzpoFeWLGLhVJ0gaE-4wg0mtrzCnpdUYPBBX51vgtnxUuq1iAonRKSGOlhh7uiLEXoW_vrNRB_acpV6BvcZy734tCclx2ssg-GZpdWkVFWgWeWkM/s1600/SBM_2023_page-0009.jpg)

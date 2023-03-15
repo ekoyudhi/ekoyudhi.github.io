@@ -17,6 +17,6 @@ Contoh penghitungan alokasi biaya taksi: Seorang pejabat/pegawai negeri melakuka
    - 2) satuan biaya taksi dari Bandara Soekarno-Hatta ke tempat kedudukan (Jakarta).
 
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0103.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMieYZCggnExcumL7umS-SFliBlRVWFlWXRKmpeuD0wQ3IIFgDaXhicWTcjzAa3Ipqqiju-tbt0G60xajSE1pxX1FC735Ebs1n69PzDSuddo-kaOxCCHTK1th2V6jp45ZFgPhZ2b1WwEpywHX-Wc2yOafezHMwrctcysYQ38VuqEQ/s1600/SBM_2023_page-0103.jpg)

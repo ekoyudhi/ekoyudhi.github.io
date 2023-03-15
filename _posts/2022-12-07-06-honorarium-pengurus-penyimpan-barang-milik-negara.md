@@ -8,6 +8,6 @@ Honorarium diberikan kepada Pegawai Aparatur Sipil Negara/ Anggota Polri/TNI di 
 
 Jumlah pejabat/pegawai yang dapat diberikan honorarium selaku pengurus/penyimpan barang milik negara paling banyak 4 (empat) orang pada tingkat Pengguna Barang dan 2 (dua) orang pada tingkat Kuasa Pengguna Barang.
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0009.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrlqIUmFg3DO-wBRzDytNVD0Oc1t9qp02zNvskKkdE06tEdsSEgLxRHXHEBIFCzpoFeWLGLhVJ0gaE-4wg0mtrzCnpdUYPBBX51vgtnxUuq1iAonRKSGOlhh7uiLEXoW_vrNRB_acpV6BvcZy734tCclx2ssg-GZpdWkVFWgWeWkM/s1600/SBM_2023_page-0009.jpg)

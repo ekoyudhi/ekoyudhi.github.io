@@ -13,6 +13,6 @@ Honorarium yang diberikan hanya kepada Pegawai Non Aparatur Sipil Negara yang di
 > 4. Dalam hal ketentuan mengenai upah minimum di suatu wilayah lebih tinggi daripada satuan biaya dalam Peraturan Menteri ini, maka satuan biaya ini dapat dilampaui mengacu pada ketentuan tersebut.
 
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0019.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguIOGKxA_8i2H6cJIJ9nexBeVu89UbjEGrWP1h-wJFtr-DwlEsUJWkQt0brOZlxQKsNsfe-pWF_74fUBBZRKIUUze-ckadGjWYN6d-gCH7T2MrABL6pbQIVdjNyaS0MRzHABntLwxV7oatVsxnwBptihXlQf0IEy4YhMR2LBIuhGI/s1600/SBM_2023_page-0019.jpg)

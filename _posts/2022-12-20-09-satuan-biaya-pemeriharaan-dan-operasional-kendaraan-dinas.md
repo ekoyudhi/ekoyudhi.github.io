@@ -18,8 +18,8 @@ besarannya mengacu pada ketentuan peraturan perundang-undangan.
 >   - b. pemeliharaan kendaraan yang bersifat rekondisi dan/atau overhaul.
 
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0098.jpg)
-![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0099.jpg)
-![h3](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0100.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKSh9dnhXNqUMQ06BZEyQe6LqJ6jbxi6uXBbaM94TLJXIterUrpzlzB7C-0pzJ6FH2pWPxFvuILeS2HfmdAvW9BXMcL26KA2Ow1wlELhiezt-F0BWM8OGwppFYTu9Rgg-O88Kx-8UwZshLxVQ9Wal8sKvp9_JFifzIm6nvBJ48WBc/s1600/SBM_2023_page-0098.jpg)
+![h2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij_37nTbMpzJS83YsBA3QeEugvLPL1ZafOMhfgl2X_jkzIyMcQvaRY1424ygOnhchMT5RP-vQuqwGlKnxTBYMaXWr0ZNv4Y4ZDwWu-sF056qdYET_8FfiBAb7LFBhbq7VxgUbYDMuiVvlpV95mpg5aKFONAQS6TZWEaYFO1WQTiY0/s1600/SBM_2023_page-0099.jpg)
+![h3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC3zMUtYBegkajDwu0B91g_0snriorrUxk1KSdAXbe9inUzfSEZUr0hXoD7kPQiM-Ck44ovkkgLeSuHryeFgXSiM-smAmSCY9x-tIu1Y3SPeZGLXXdXx5bmN4hnzrLOmXOiS5hW9T1Woz5c_oa_uOlDP5kr2oniCfKMovhjDbamPU/s1600/SBM_2023_page-0100.jpg)

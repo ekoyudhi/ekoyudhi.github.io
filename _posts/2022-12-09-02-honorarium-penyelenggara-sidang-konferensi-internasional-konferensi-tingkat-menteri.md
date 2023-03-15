@@ -10,7 +10,7 @@ categories: keuangan
 > Catatan:
 > Kepada panitia/penyelenggara dapat diberikan uang harian perjalanan dinas dan/atau uang harian paket meeting sesuai surat perintah perjalanan dinas yang diterbitkan pejabat yang berwenang.
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0016.jpg)
-![h2](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0017.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWc88leWvp_LY30MSGqtCrG0DFAa2l1YoTuZ5-qv5e7UZFmD1NhDyPQR4PBxjqaYzB397qpzrj1byx5H6cK5nhuHFNbaeyyPL22gztdRXQCFSsE3PXZlL_FYgjWNn3oAFQpmOhZ1cJgmMxl5Iyk3BwLhllhEwUjcKBCO41z6TcjNI/s1600/SBM_2023_page-0016.jpg)
+![h2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqJ0uJo04qhfL3S3qmUBTk_B7Ns2TdYl23tbg5kSI6JTs83vjIgfAy8Zjy8USoqKQhvg-EA3Picf3wNbGgvguKnXBbniTLPNQ4ZcOXAOYPz-HC-FakEAEuPLFiFdHRL9dgYl_aYobfHtIYOb8oBEuKdEA-6KG_LPEzYAbCxCVxv3o/s1600/SBM_2023_page-0017.jpg)

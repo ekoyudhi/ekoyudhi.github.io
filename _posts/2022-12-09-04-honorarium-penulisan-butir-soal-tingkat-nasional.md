@@ -8,6 +8,6 @@ categories: keuangan
 - 21.2 Honorarium Telaah Butir Soal Tingkat Nasional. Honorarium yang diberikan kepada guru, dosen, atau pakar sesuai bidang yang dibutuhkan dengan kepakarannya (baik Pegawai Negeri Sipil maupun Nonpegawai Negeri Sipil) untuk proses telaah soal yang digunakan pada penilaian tingkat nasional, meliputi soal yang bersifat penilaian akademik, seperti soal ujian berstandar nasional, soal ujian nasional, soal yang mengukur literasi untuk survei nasional, soal tes kompetensi akademik guru, soal akademik Calon Pegawai Negeri Sipil, dan soal untuk penilaian non akademik seperti soal tes bakat, tes minat, soal yang mengukur kecenderungan perilaku, soal tes kompetensi guru yang non akademik, soal tes asesmen pegawai, soal kompetensi managerial kepala sekolah, dan soal non akademik Calon Pegawai Negeri Sipil. Honorarium Telaah Butir Soal Tingkat Nasional diberikan berdasarkan penugasan oleh unit kerja yang mempunyai tugas
 atau fungsi untuk melakukan telaah soal tingkat nasional sesuai dengan ketentuan peraturan perundang-undangan.
 
-[Download SBM 2023](https://f005.backblazeb2.com/file/SBM2023/SBM_2023.pdf){:target="_blank"}
+[Download SBM 2023](https://drive.google.com/file/d/1E7dBSV1cZGMQCWfVuKfwCuzBQ-tRs2oD/view){:target="_blank"}
 
-![h1](https://f005.backblazeb2.com/file/SBM2023/SBM_2023_page-0017.jpg)
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqJ0uJo04qhfL3S3qmUBTk_B7Ns2TdYl23tbg5kSI6JTs83vjIgfAy8Zjy8USoqKQhvg-EA3Picf3wNbGgvguKnXBbniTLPNQ4ZcOXAOYPz-HC-FakEAEuPLFiFdHRL9dgYl_aYobfHtIYOb8oBEuKdEA-6KG_LPEzYAbCxCVxv3o/s1600/SBM_2023_page-0017.jpg)

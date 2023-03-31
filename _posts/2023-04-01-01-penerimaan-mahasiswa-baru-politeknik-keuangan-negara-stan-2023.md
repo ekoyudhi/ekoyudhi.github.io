@@ -7,11 +7,13 @@ categories: keuangan
 ### SELEKSI PENERIMAAN MAHASISWA BARU (SPMB) PROGRAM STUDI DIPLOMA IV POLITEKNIK KEUANGAN NEGARA STAN TAHUN 2023
 
 Berdasarkan Surat Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi Nomor B/631/M.SM.01.00/2023 tanggal 24 Maret 2023 tentang Persetujuan Prinsip Kebutuhan Mahasiswa Sekolah Kedinasan dari Politeknik Keuangan Negara STAN Tahun Anggaran 2023 untuk Mengisi Kebutuhan CPNS di Lingkungan Instansi Pemerintah, Politeknik Keuangan Negara STAN (PKN STAN) akan menerima putra-putri warga negara Indonesia untuk mengikuti pendidikan pada PKN STAN dengan alokasi pada setiap program studi sebagai berikut:
-| No| Program | Reguler | Afirmasi Kewilayahan | Pembibitan | Jumlah |
-| -------- | ------- | --------------- | ---------- | ----------- |
-| 1 | Diploma IV Akuntansi Sektor Publik | 404 | 44 | 22 | 470 |
-| 2 | Diploma IV Manajemen Keuangan Negara | 365 | 36 | 19 | 420 |
-| 3 | Diploma IV Manajemen Aset Publik | 171 | 20 | 19 | 210 |
+
+| No| Program                              | Reguler | Afirmasi Kewilayahan | Pembibitan | Jumlah |
+| - | ------------------------------------ | ------- | -------------------- | ---------- | ------ |
+| 1 | Diploma IV Akuntansi Sektor Publik   | 404     | 44                   | 22         | 470    |
+| 2 | Diploma IV Manajemen Keuangan Negara | 365     | 36                   | 19         | 420    |
+| 3 | Diploma IV Manajemen Aset Publik     | 171     | 20                   | 19         | 210    |
+|   | Jumlah                               | 940     | 100                  | 60         | 1.100  |
 
 #### JALUR PENERIMAAN
 Jalur penerimaan mahasiswa baru PKN STAN, sebagai berikut:

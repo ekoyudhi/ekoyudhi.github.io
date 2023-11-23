@@ -1,0 +1,11 @@
+---
+layout: post
+title: SBM 2024 Satuan Biaya Sewa Mesin Fotokopi
+categories: keuangan
+---
+
+Satuan biaya sewa mesin fotokopi merupakan satuan biaya yang digunakan untuk kebutuhan biaya sewa mesin fotokopi, untuk menunjang pelaksanaan operasional kantor. Satuan biaya ini sudah termasuk toner dan biaya perawatan untuk pencetakan sampai dengan 6.000 (enam ribu) lembar/bulan.
+
+[Download SBM 2024](https://jdih.kemenkeu.go.id/download/8be2507a-7c39-480f-b271-88e74e59e272/2023pmkeuangan049.pdf){:target="_blank"}
+
+![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqCsr_nW7_mPLdUJXEsmnQ6OHylzLdMNulLWv2U_3eOUlFUR7-pEzelKKP6glVnA0lSbGc6BhR-0BIWIMDi11MFO1D3REy8Qcm8nNW_gbwTVu_7jv9rkDvUF2E_wVgSFu7S4Wqk_elZjGo7-UCSA3z4OaMMUE7L3Z-TOhzc-rIkDBjbg/s1600/SBM_2024_2_Page_08.jpg)

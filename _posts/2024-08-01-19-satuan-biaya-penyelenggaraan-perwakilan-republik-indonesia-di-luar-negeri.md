@@ -32,6 +32,7 @@ dengan kebutuhan.
 - f. Sewa kendaraan sedan, bus, dan mobil box merupakan satuan biaya yang digunakan untuk membiayai kebutuhan biaya sewa kendaraan sedan, bus dengan kapasitas 32 (tiga puluh dua) penumpang selama 8 (delapan) jam, dan mobil box untuk kegiatan yang sifatnya insidentil dan dilakukan secara selektif serta efisien. Satuan biaya sewa tersebut sudah termasuk biaya bahan bakar dan pengemudi.
 - g. Konsumsi rapat merupakan satuan biaya yang digunakan untuk membiayai kebutuhan biaya pengadaan konsumsi rapat biasa yang diselenggarakan di kantor, di mana di dalamnya sudah termasuk makan dan kudapan.
 
+
 ![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ5V0gAjgOZ6rCeRrGbTWuLOTOGaV4RmVu4LpwgH2P9tSJngAuqTrkgi73sM58sVGydQsM6Wjp9kGZT90hwGm2n6VH-2nyec-bqr2VcD57VwVGsTyFyyh6sqwbD9V1bciC06AQcuqZPRiEFC7grQE5igdmhJ7MB2myNRQjW_QMB3mo6w/s1600/SBM_2025_Page_098.jpg)
 ![h2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtU3vZ9wefLiyV_BH8gDr9Oh6xLUHxdKn8IRuTkvTm647qs6T1A0prTiE5Ku8WqMu44BtnttbdJovDnp_O8XeLG9FUsU2iGcrs7HMdIe_d689vkJ-lVKIqvtVFt_Pdqi7LEcWM9_i-7nVe863VEgX1_f-0Hqw8KWYJHluCF4Q27lE2HA/s1600/SBM_2025_Page_099.jpg)
 ![h3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxdI7m4YgaUBlJh199IRIWQcysmDfKf9mZEQ92k18rG-Pck1ZpRr8uGXDeU6BvlYxpZUFEWat_0vojCBkL2TVnqlqaG1z606llVuADYSS8GnvTJseVHzv2wFzMoDocCxHa-7TyjGiCPF66PJr__UubyKkJBkhWrKWyOANuub1nV9CuzA/s1600/SBM_2025_Page_100.jpg)

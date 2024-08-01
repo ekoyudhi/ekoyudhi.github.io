@@ -19,4 +19,5 @@ Seorang pelaksana perjalanan dinas melakukan perjalanan dinas jabatan dari Jakar
     - 1) satuan biaya transportasi dari hotel/penginapan (Medan) ke Bandara Kualanamu (Sumatra Utara); dan
     - 2) satuan transportasi taksi dari Bandara Soekarno-Hatta ke tempat kedudukan/tempat sah (Jakarta).
 
+
 ![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI8XV0WT6dXejShDn7dM0hCCGwLBl-JgZCun7in2mux-WDbccmGeHhllGEeu-fJ7tb_OmyYgnMK0_epqo16LnnDFSFMzlOaoniHMD8Z2Cq-0ZtZA3WR01-_or4-PTLWP-bbUct1HpRLe3RPq9ayfnCD2Y06Hq8hwdpacmpTo4OL8HJiw/s1600/SBM_2025_Page_088.jpg)

@@ -10,4 +10,5 @@ Satuan Biaya Bantuan Beasiswa Program Gelar/Nongelar Dalam Negeri dapat diberika
 
 Pemberian satuan biaya ini dapat diberikan sepanjang belum memperoleh bantuan serupa dari pihak lain dan bukan merupakan tugas belajar dengan biaya mandiri.
 
+
 ![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJIJ5LyTglat_OkN1KkqZXeRjs3dQhjIvcleBOXDMFH2_wpAwBJ9o1DZnTLKJtITtvdO1lYmbIhIWk0I8qC-A2VTyPCf1rO3qjS0eyORQHMpy5oAEe-y0Bb-u4KEoh_bEd4_RDTkx4xU5ZQGjxqyq0WM-T6s_pQ9CLwVh88BC3ChuUuw/s1600/SBM_2025_Page_072.jpg)

@@ -8,6 +8,7 @@ Satuan biaya transportasi darat dari ibu kota provinsi ke kabupaten/kota dalam p
 
 Dalam hal satuan biaya transportasi darat dari ibu kota provinsi ke suatu kabupaten/kota dalam provinsi yang sama belum tercantum dalam Lampiran Peraturan Menteri ini, maka biaya transportasi dimaksud mengacu pada harga pasar (at cost) dengan tetap mempertimbangkan prinsip efisiensi dan efektivitas pelaksanaan kegiatan.
 
+
 ![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizjl9RdqbFU9TSDZ_y8aCoGB7MEP0_w63CWX6QgimV590Z18k4wVqvRtwTP5y2ZQSu-VI3h-be0idL5xaAKk5bwVzEHiFMcKBu6CDlP8ZBrf3jciqvekn-SoucdcWGGDMXaPSHVuIo9I8f-yRN5XZbCzE9x-_wrJ2mUDRyBzrE-NBBvA/s1600/SBM_2025_Page_065.jpg)
 ![h2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2rB64XjwwaOjT_cdEjcuKGmrShbvwzvWpicCFGBoiHSMqaBD52A0AW3o334gKhz2Nja-eBtlPIu2kr2MDOijuLGne9I5CD5Sbcof51RsSGjwd3TXmeE4Pi4A7oZkZYWvdAFFDKJsG5X9QpMU9eeUmECtCBiSFdSf-MfIdMad3djncsg/s1600/SBM_2025_Page_066.jpg)
 ![h3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilECJXjFIfKIRjmp8rS-ojw13_dBGUSvrtYH-yAlQg8A-irn9-MohyphenhyphenEYX8QLbMXOtThb7LwX5XgXKfGh8kFaSmz2jH94I5N_NeaHMRQu2qWY-k317mtiLcIgRX0TZQUGFxQtmr8hiIPCrhVJPOhrTM4POaj1Nw0TX-jdNzWrKGBJNW2g/s1600/SBM_2025_Page_067.jpg)

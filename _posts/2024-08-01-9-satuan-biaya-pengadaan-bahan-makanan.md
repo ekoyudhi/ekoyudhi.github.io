@@ -49,6 +49,7 @@ Pengadaan Bahan Makanan untuk Rescue Team adalah pengadaan bahan makanan yang di
 Catatan:
 Khusus untuk Kegiatan Operasi Pencarian dan Pertolongan pada saat melaksanakan tugas operasi pencarian dan pertolongan pada kecelakaan penerbangan, kecelakaan pelayaran, bencana, dan kondisi membahayakan manusia, apabila diperlukan dapat menggunakan mekanisme pengadaan makanan siap saji dengan biaya sebesar 150% (seratus lima puluh persen) dari besaran pengadaan bahan makanan untuk rescue team.
 
+
 ![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSN28nlwIln-3c-NoOUb8weo3LqYKCZsPJM_Qhq7-wNcKYyMaNpsiuluBzcE1hU0vjhc56EGIFf2UK9eb7nonBe2VTjXBbFUfI89Y9pIRh_pFrjlrJuw4q2M1Wmtwa0DjqLfAD0CwivKd7b0YHyhryozMQFy1cxw5YKzb6RsOl3S6xSA/s1600/SBM_2025_Page_073.jpg)
 ![h2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9mtJP16vR5Aj2lYtxIksgpLmpAgPMckmK1pAimjc3Vtzyz25vbqiuyFps_DkjCyBm3tQHg7TauipNXAqgaXCHpJlPBsTe0Qr8FQm_VLh5hWyW9bGk30R-651yNjMx9TMHh7NWFBskpH9leozh7_qQ2ownyD5cvKgL1UFzlcSCNOf1Jw/s1600/SBM_2025_Page_074.jpg)
 ![h3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9Qdg5EfcEqvRHQT5HtNtnE1ERObzy-G0SwA8WxbH8bmUy-lPQxTmypfnpj2F7woqqNgOwOjnSrK6bXTwIzeeywvSbp-Kogk9nhpk17LHPkpVCagQ5YRH4slqmjsI4vCgeOpu_5FsP4kMUP_GXyBLf98kbb_XpY1d6EH-G85eaTAfZgg/s1600/SBM_2025_Page_075.jpg)

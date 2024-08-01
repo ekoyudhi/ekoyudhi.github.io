@@ -8,6 +8,7 @@ Satuan biaya tiket pesawat perjalanan dinas luar negeri pergi pulang (PP) merupa
 
 Dalam pelaksanaan anggaran, satuan biaya tiket perjalanan dinas luar negeri menggunakan metode biaya riil.
 
+
 ![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA246smuu4UDdOMhWup7H2046VIYJ0SckryjQg5zM5Loy1VRnv1Mv3iowMMvuQ80_-kFI_w3oe9uLHTGrVb3hnWQPVLDq_kUhxr_nqfBnvPsYizvpzuVDGiurwOCBZPSBoj47SmkkHtOMLF_PFX1Lb5Hrt7UiNgelqjABwvPYlZERD8w/s1600/SBM_2025_Page_094.jpg)
 ![h2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCUeDb03e_cfp0cJVVUWDH9qhewFTjzenkbBkKgdJqpwYzASVVmUOs5UyLIQ7Bor2yUcS7drUQ431l_PHmpJN7tlf12cmMl132B0gUXaffLSqWtguvuv3MFzbwDGOq06UC4gvUw9WppsN6nasG57xjar87h9OABIT3hGJKfJG_UcdANQ/s1600/SBM_2025_Page_095.jpg)
 ![h3](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLXK8tqSqtyLlueJrSDJFvrtYFGGzzoq2yi4TyIsXi-adcEynRXva5sjKs_0HfC0H96EEgCv_w1rLyYq4wMF_pe_7z8OnAFWJad-PEnHLqCAG3t86rGAPDr-LZyT9bntr1FBJLHSuodVvArg8Cku_Pj4DkgTkE9zIfDazG6-7RzdiGtQ/s1600/SBM_2025_Page_096.jpg)

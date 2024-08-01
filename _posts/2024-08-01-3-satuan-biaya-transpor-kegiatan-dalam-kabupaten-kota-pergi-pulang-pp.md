@@ -11,4 +11,5 @@ Satuan biaya transpor kegiatan dalam kabupaten/kota tidak dapat diberikan kepada
 - b. Dalam hal instansi/unit penyelenggara tidak memberikan satuan biaya transpor kegiatan dalam kabupaten/kota, instansi/unit pengirim dapat memberikan satuan biaya transpor kegiatan dalam kabupaten/kota.
 - c. Khusus Provinsi DKI Jakarta, yang dimaksud kabupaten/kota adalah meliputi kesatuan wilayah Jakarta Pusat, Jakarta Timur, Jakarta Utara, Jakarta Barat, dan Jakarta Selatan.
 
+
 ![h1](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJIJ5LyTglat_OkN1KkqZXeRjs3dQhjIvcleBOXDMFH2_wpAwBJ9o1DZnTLKJtITtvdO1lYmbIhIWk0I8qC-A2VTyPCf1rO3qjS0eyORQHMpy5oAEe-y0Bb-u4KEoh_bEd4_RDTkx4xU5ZQGjxqyq0WM-T6s_pQ9CLwVh88BC3ChuUuw/s1600/SBM_2025_Page_072.jpg)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SBM 2026 Honorarium Tim Pelaksana Kegiatan dan Sekretariat Tim Pelaksana Kegiatan
+title: SBM 2026 Honorarium Penyusunan Jurnal
 categories: keuangan
 ---
 

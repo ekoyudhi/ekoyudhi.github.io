@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SBM 2026 Honorarium Pengelola Sistem Akuntansi dan Pelaporan Keuangan Instansi (SAI)
+title: SBM 2026 Honorarium Pengurus/Penyimpan Barang Milik Negara
 categories: keuangan
 ---
 

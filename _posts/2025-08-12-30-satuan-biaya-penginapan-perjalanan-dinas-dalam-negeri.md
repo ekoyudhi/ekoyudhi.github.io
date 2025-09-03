@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SBM 2026 Satuan Biaya Uang Harian Perjalanan Dinas Luar Negeri
+title: SBM 2026 Satuan Biaya Penginapan Perjalanan Dinas Dalam Negeri
 categories: keuangan
 ---
 

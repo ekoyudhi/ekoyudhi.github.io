@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SBM 2026 Satuan Biaya Pengepakan dan Angkutan Barang Perjalanan Dinas Pindah Dalam Negeri
+title: SBM 2026 Satuan Biaya Bantuan Biaya Pendidikan Anak (BBPA) pada Perwakilan Republik Indonesia di Luar Negeri
 categories: keuangan
 ---
 

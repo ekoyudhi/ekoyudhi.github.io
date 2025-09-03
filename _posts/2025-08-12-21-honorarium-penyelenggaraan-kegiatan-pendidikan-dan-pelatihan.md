@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SBM 2026 Honorarium Seleksi Tingkat Nasional
+title: SBM 2026 Honorarium Penyelenggaraan Kegiatan Pendidikan dan Pelatihan (Diklat)
 categories: keuangan
 ---
 
